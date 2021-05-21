@@ -6,7 +6,7 @@
 
 GITHUB BETA
 
-** Store
+**Store
 
 BETA
 
